@@ -6,3 +6,6 @@
 
 #### 网站
 - [clawdhub](https://clawdhub.com/)
+
+#### 文章
+- [玩转Lighthouse｜Moltbot（Clawdbot）接入企业微信完全指南](https://cloud.tencent.com/developer/article/2625147)
