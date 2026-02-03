@@ -1,4 +1,5 @@
 #### 开源
+- [openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk)
 - [dingtalk-moltbot-connector](https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector)
 - [openclaw-mini](https://github.com/voocel/openclaw-mini)
 - [OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation)
