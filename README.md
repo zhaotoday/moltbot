@@ -1,4 +1,5 @@
 #### 开源
+- [OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation)
 - [openclaw-skills](https://github.com/BankrBot/openclaw-skills)
 - [OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller)
 - [clawdbot-wechat-plugin](https://github.com/NannaOlympicBroadcast/clawdbot-wechat-plugin)
