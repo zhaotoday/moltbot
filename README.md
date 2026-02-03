@@ -1,4 +1,5 @@
 #### 开源
+- [OpenClaw-Wechat](https://github.com/dingxiang-me/OpenClaw-Wechat)
 - [moltbot-china](https://github.com/BytePioneer-AI/moltbot-china)
 - [openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk)
 - [dingtalk-moltbot-connector](https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector)
