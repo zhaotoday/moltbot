@@ -1,4 +1,5 @@
 #### 开源
+- [openclaw-mini](https://github.com/voocel/openclaw-mini)
 - [nanobot](https://github.com/HKUDS/nanobot)
 - [openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub)
 - [OpenClaw-Wechat](https://github.com/dingxiang-me/OpenClaw-Wechat)
