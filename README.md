@@ -1,4 +1,5 @@
 #### 开源
+- [awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh)
 - [OpenClaw-Wechat](https://github.com/dingxiang-me/OpenClaw-Wechat)
 - [OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)
 - [openclaw-mini](https://github.com/voocel/openclaw-mini)
