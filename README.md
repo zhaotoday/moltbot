@@ -1,4 +1,5 @@
 #### 开源
+- [ClawWork](https://github.com/HKUDS/ClawWork)
 - [ClawX](https://github.com/webmcpnet/awesome-webmcp)
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
 - [awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh)
