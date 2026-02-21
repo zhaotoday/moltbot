@@ -3,7 +3,7 @@
 - [ClawX](https://github.com/webmcpnet/awesome-webmcp)
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
 - [awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh)
-- [OpenClaw-Wechat](https://github.com/dingxiang-me/OpenClaw-Wechat)
+- [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat)
 - [OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)
 - [openclaw-mini](https://github.com/voocel/openclaw-mini)
 - [nanobot](https://github.com/HKUDS/nanobot)
