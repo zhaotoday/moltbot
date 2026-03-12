@@ -1,4 +1,5 @@
 #### 开源
+- [awesome-openclaw-tutorial](https://github.com/xianyu110/awesome-openclaw-tutorial)
 - [openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token)
 - [openclaw-termux](https://github.com/mithun50/openclaw-termux)
 - [openclaw-guide](https://github.com/liyupi/openclaw-guide)
