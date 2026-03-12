@@ -1,4 +1,5 @@
 #### 开源
+- [wechat-publisher](https://github.com/Corps-Cy/wechat-publisher)
 - [awesome-openclaw-usecases-moltbook](https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook)
 - [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
 - [awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh)
