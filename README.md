@@ -1,4 +1,5 @@
 #### 开源
+- [openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token)
 - [openclaw-termux](https://github.com/mithun50/openclaw-termux)
 - [openclaw-guide](https://github.com/liyupi/openclaw-guide)
 - [wechat-publisher](https://github.com/Corps-Cy/wechat-publisher)
