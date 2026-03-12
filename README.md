@@ -1,4 +1,5 @@
 #### 开源
+- [dingtalk-openclaw-connector](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector)
 - [openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills)
 - [awesome-openclaw-tutorial](https://github.com/xianyu110/awesome-openclaw-tutorial)
 - [openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token)
