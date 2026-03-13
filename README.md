@@ -1,4 +1,5 @@
 #### 开源
+- [openclaw-search-skills](https://github.com/blessonism/openclaw-search-skills)
 - [openclaw-qqbot](https://github.com/tencent-connect/openclaw-qqbot)
 - [ClawRouter](https://github.com/BlockRunAI/ClawRouter)
 - [mission-control](https://github.com/builderz-labs/mission-control)
