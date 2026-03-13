@@ -1,4 +1,5 @@
 #### 开源
+- [OpenClaw-bot-review](https://github.com/xmanrui/OpenClaw-bot-review)
 - [openclaw-lark](https://github.com/larksuite/openclaw-lark)
 - [manifest](https://github.com/mnfst/manifest)
 - [qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client)
