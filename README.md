@@ -1,4 +1,5 @@
 #### 开源
+- [clawhost](https://github.com/fastclaw-ai/clawhost)
 - [openclaw-pm](https://github.com/1va7/openclaw-pm)
 - [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
 - [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control)
