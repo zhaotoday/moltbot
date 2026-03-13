@@ -1,4 +1,5 @@
 #### 开源
+- [ClawRouter](https://github.com/BlockRunAI/ClawRouter)
 - [mission-control](https://github.com/builderz-labs/mission-control)
 - [OpenClaw-Book](https://github.com/0xtresser/OpenClaw-Book)
 - [miniclawd](https://github.com/FoundDream/miniclawd)
