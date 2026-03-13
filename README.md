@@ -1,4 +1,5 @@
 #### 开源
+- [awesome-openclaw-zh](https://github.com/cogine-ai/awesome-openclaw-zh)
 - [openclaw-search-skills](https://github.com/blessonism/openclaw-search-skills)
 - [openclaw-qqbot](https://github.com/tencent-connect/openclaw-qqbot)
 - [ClawRouter](https://github.com/BlockRunAI/ClawRouter)
