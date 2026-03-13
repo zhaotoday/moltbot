@@ -1,4 +1,5 @@
 #### 开源
+- [openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory)
 - [openclaw-killer](https://github.com/orange2ai/openclaw-killer)
 - [awesome-openclaw-zh](https://github.com/cogine-ai/awesome-openclaw-zh)
 - [openclaw-search-skills](https://github.com/blessonism/openclaw-search-skills)
