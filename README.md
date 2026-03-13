@@ -1,4 +1,5 @@
 #### 开源
+- [openclaw-cn](https://github.com/jiulingyun/openclaw-cn)
 - [clawhost](https://github.com/bfzli/clawhost)
 - [openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory)
 - [openclaw-killer](https://github.com/orange2ai/openclaw-killer)
