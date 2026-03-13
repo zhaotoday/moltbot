@@ -1,4 +1,5 @@
 #### 开源
+- [manifest](https://github.com/mnfst/manifest)
 - [qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client)
 - [clawhost](https://github.com/fastclaw-ai/clawhost)
 - [openclaw-pm](https://github.com/1va7/openclaw-pm)
