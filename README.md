@@ -1,4 +1,5 @@
 #### 开源
+- [openclaw-qqbot](https://github.com/tencent-connect/openclaw-qqbot)
 - [ClawRouter](https://github.com/BlockRunAI/ClawRouter)
 - [mission-control](https://github.com/builderz-labs/mission-control)
 - [OpenClaw-Book](https://github.com/0xtresser/OpenClaw-Book)
