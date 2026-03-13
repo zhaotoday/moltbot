@@ -1,4 +1,5 @@
 #### 开源
+- [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control)
 - [openclaw-docs](https://github.com/yeuxuan/openclaw-docs)
 - [openclaw-android](https://github.com/AidanPark/openclaw-android)
 - [dingtalk-openclaw-connector](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector)
