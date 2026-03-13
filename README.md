@@ -1,4 +1,5 @@
 #### 开源
+- [OpenClaw-Book](https://github.com/0xtresser/OpenClaw-Book)
 - [miniclawd](https://github.com/FoundDream/miniclawd)
 - [wechat-access-unqclawed](https://github.com/HenryXiaoYang/wechat-access-unqclawed)
 - [OpenClawWeChat](https://github.com/hillghost86/OpenClawWeChat)
