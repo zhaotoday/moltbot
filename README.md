@@ -1,4 +1,5 @@
 #### 开源
+- [OpenClawWeChat](https://github.com/hillghost86/OpenClawWeChat)
 - [OpenClaw-bot-review](https://github.com/xmanrui/OpenClaw-bot-review)
 - [openclaw-lark](https://github.com/larksuite/openclaw-lark)
 - [manifest](https://github.com/mnfst/manifest)
