@@ -1,4 +1,5 @@
 #### 开源
+- [MetaClaw](https://github.com/aiming-lab/MetaClaw)
 - [u-claw](https://github.com/dongsheng123132/u-claw)
 - [ClawDeckX](https://github.com/ClawDeckX/ClawDeckX)
 - [clawapp](https://github.com/qingchencloud/clawapp)
