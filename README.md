@@ -1,4 +1,5 @@
 #### 开源
+- [openbrowserclaw](https://github.com/sachaa/openbrowserclaw)
 - [ClawX](https://github.com/ValueCell-ai/ClawX)
 - [openclaw-cn](https://github.com/jiulingyun/openclaw-cn)
 - [clawhost](https://github.com/bfzli/clawhost)
