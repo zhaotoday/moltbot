@@ -1,4 +1,5 @@
 #### 开源
+- [clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)
 - [claw-compactor](https://github.com/aeromomo/claw-compactor)
 - [ClawPanel](https://github.com/zhaoxinyi02/ClawPanel)
 - [clawpanel](https://github.com/qingchencloud/clawpanel)
