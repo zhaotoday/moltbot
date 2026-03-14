@@ -1,4 +1,5 @@
 #### 开源
+- [clawd-cursor](https://github.com/AmrDab/clawd-cursor)
 - [OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant)
 - [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw)
 - [openbrowserclaw](https://github.com/sachaa/openbrowserclaw)
