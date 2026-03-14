@@ -1,4 +1,5 @@
 #### 开源
+- [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw)
 - [openbrowserclaw](https://github.com/sachaa/openbrowserclaw)
 - [ClawX](https://github.com/ValueCell-ai/ClawX)
 - [openclaw-cn](https://github.com/jiulingyun/openclaw-cn)
