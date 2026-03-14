@@ -1,4 +1,5 @@
 #### 开源
+- [ClawDeckX](https://github.com/ClawDeckX/ClawDeckX)
 - [clawapp](https://github.com/qingchencloud/clawapp)
 - [hello-claw](https://github.com/datawhalechina/hello-claw)
 - [clawd-cursor](https://github.com/AmrDab/clawd-cursor)
