@@ -1,5 +1,6 @@
 #### 开源
 - [claw-compactor](https://github.com/aeromomo/claw-compactor)
+- [ClawPanel](https://github.com/zhaoxinyi02/ClawPanel)
 - [clawpanel](https://github.com/qingchencloud/clawpanel)
 - [MetaClaw](https://github.com/aiming-lab/MetaClaw)
 - [u-claw](https://github.com/dongsheng123132/u-claw)
