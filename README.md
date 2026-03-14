@@ -1,4 +1,5 @@
 #### 开源
+- [hello-claw](https://github.com/datawhalechina/hello-claw)
 - [clawd-cursor](https://github.com/AmrDab/clawd-cursor)
 - [OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant)
 - [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw)
