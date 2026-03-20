@@ -1,4 +1,5 @@
 #### 开源
+- [hiclaw](https://github.com/alibaba/hiclaw)
 - [nanoclaw](https://github.com/qwibitai/nanoclaw)
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)
 - [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
