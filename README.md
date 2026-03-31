@@ -1,4 +1,5 @@
 #### 开源
+- [openclaw-plugin-wecom](https://github.com/sunnoy/openclaw-plugin-wecom)
 - [wecom-openclaw-plugin](https://github.com/WecomTeam/wecom-openclaw-plugin)
 - [Awesome-OpenClaw](https://github.com/EthanYolo01/Awesome-OpenClaw)
 - [openclaw-android-node-apk](https://github.com/bighamx/openclaw-android-node-apk)
