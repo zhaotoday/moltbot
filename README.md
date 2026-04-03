@@ -1,4 +1,5 @@
 #### 开源
+- [awesome-openclaw](https://github.com/alvinreal/awesome-openclaw)
 - [openclaw-plugin-wecom](https://github.com/sunnoy/openclaw-plugin-wecom)
 - [wecom-openclaw-plugin](https://github.com/WecomTeam/wecom-openclaw-plugin)
 - [Awesome-OpenClaw](https://github.com/EthanYolo01/Awesome-OpenClaw)
