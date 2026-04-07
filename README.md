@@ -1,4 +1,5 @@
 #### 开源
+- [wiseflow](https://github.com/TeamWiseFlow/wiseflow)
 - [awesome-openclaw](https://github.com/alvinreal/awesome-openclaw)
 - [openclaw-plugin-wecom](https://github.com/sunnoy/openclaw-plugin-wecom)
 - [wecom-openclaw-plugin](https://github.com/WecomTeam/wecom-openclaw-plugin)
