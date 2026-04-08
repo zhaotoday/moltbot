@@ -1,4 +1,5 @@
 #### 开源
+- [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)
 - [wiseflow](https://github.com/TeamWiseFlow/wiseflow)
 - [awesome-openclaw](https://github.com/alvinreal/awesome-openclaw)
 - [openclaw-plugin-wecom](https://github.com/sunnoy/openclaw-plugin-wecom)
